@@ -1,0 +1,12 @@
+Algoritmo Par_Impar
+	Escribir "Ingresa un entero"
+	leer numero
+	si numero % 2 = 0 Entonces 
+		// si el residuo es cero, entonces es Para
+		Escribir numero "ES PAR"
+	SiNo
+		Escribir numero " ES IMPAR"
+		
+	FinSi
+	
+FinAlgoritmo

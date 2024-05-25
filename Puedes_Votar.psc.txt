@@ -1,0 +1,10 @@
+Algoritmo Puedes_Votar
+	Escribir "Ingresa tu edad"
+	Leer edad 
+	Escribir "Tu edad es" edad
+	si edad >= 16 Entonces
+		Escribir "Puedes votar "
+		
+	FinSi
+	
+FinAlgoritmo
